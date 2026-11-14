@@ -153,4 +153,5 @@ Valida 12 endpoints críticos (públicos, autenticados e Swagger) e retorna exit
 
 ## Vídeo de demonstração
 
-(a ser preenchido após gravação — link do YouTube público)
+https://youtu.be/h70c-bJe8gE
+
